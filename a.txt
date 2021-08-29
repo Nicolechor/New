@@ -2,4 +2,9 @@ day 1
 
 Day 2
 
+<<<<<<< Updated upstream
 Day 5 jkjsjkjdfa
+=======
+Day 3
+Today I am good for feature1
+>>>>>>> Stashed changes
