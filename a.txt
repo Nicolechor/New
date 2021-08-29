@@ -5,6 +5,13 @@ Day 2
 Day 5 jkjsjkjdfa
 
 
+<<<<<<< Updated upstream
 just a joke !
 
 Day 6 bababa
+=======
+just a joke ! 
+
+
+Today Im working on feature1
+>>>>>>> Stashed changes
